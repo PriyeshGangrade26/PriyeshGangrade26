@@ -1,1 +1,1 @@
-<p align="center"><img width="40%" src="./assets/gh-readme-header.png" /></p>
+<p align="center"><img width="20%" src="./assets/gh-readme-header.png" /></p>

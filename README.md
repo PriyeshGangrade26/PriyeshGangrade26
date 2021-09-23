@@ -1,4 +1,4 @@
-<p align="center"><img width="55%" src="./assets/gh-readme-header.png" /></p>
+<p align="center"><img width="55%" src="./assets/gh-readme-header1.png" /></p>
 <p align="left">
 <a href = "https://www.linkedin.com/in/priyeshgangrade/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/PriyeshGangrade"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>

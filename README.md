@@ -18,7 +18,7 @@
 
 - 👨‍💻 Ask me about **AI** or any **Tech-related stuff**.
 
-- 📫 How to reach me: **[Let's get in touch!](priyeshgangrade786@gmail.com)**.
+- 📫 How to reach me: **[Let's get in touch!](mailto:priyeshgangrade786@gmail.com)**.
 
 - ⚡ I’m always looking for challenging work oppurtunities ahead.
 - 🧗🏾‍♀️ I try to: Go beyond and push the bound.
